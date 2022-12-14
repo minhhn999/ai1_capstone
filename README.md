@@ -1,7 +1,7 @@
 # Project summary:
 - Project name: AI Application with python
 - Description: project is to training flowers data from folder using Pytorch and predict probatilities top 5 of flowers
-- project source code link:
+- project source code link: https://github.com/minhhn999/ai1_capstone
 
 # How to run project:
 - open terminal
