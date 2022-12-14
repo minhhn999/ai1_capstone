@@ -1,3 +1,6 @@
+#bypass data folder
+flowers
+flowers/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
